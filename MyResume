@@ -1,0 +1,121 @@
+<html>
+<head>
+<title> RESUME </title>
+</head>
+<style>
+p
+{
+border:5px solid black
+}
+</style>
+<p>
+
+<body>
+<center>
+<h1>
+<u> MY RESUME</u>
+</h1>
+</center>
+
+<h3> Asadi Harsha Vardhan </h3>
+<img src = "https://photos.google.com/photo/AF1QipO-7UHWuYVkbjqmKXuUuj8Ruu4Eo3ZVerCeYlQ9.jpg" width = 120 height = 100 hspace = 100 align = right border="5">
+<h5> RANGAMPET,TIRUPATI </h5>
+<h5> assadiharsha@gmail.com <h5>
+<h5> Contact no: 8247644509 </h5><hr>
+
+<h2> 
+<div style = "background-color:darkgray;color:white;padding:05px;">
+<u> CAREER OBJECTIVE </u> 
+</h2>
+
+<h3> To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction 
+	and self development and help me achieve personal as well as organization goals.
+</h3>
+<h2> 
+<div style = "background-color:darkgray;color:white;padding:05px;">
+<u>  ACADEMIC QUALIFICATION </u>
+</h2>
+
+<table border = 10 width = 1000 >
+<tr>
+	<th> Qualification </th>
+	<th> Board/University </th>
+	<th> School/College </th>
+	<th> Collage Place </th>
+	<th> Year of passing </th>
+	<th> Aggregrate</th>
+</tr>
+
+<tr>
+	<th> BTech</th>
+	<th> JNTUA </th>
+	<th> Sree Vidyanikethan Engineering College </th>
+	<th> Tirupathi , Chittor dist.</th>
+	<th> 2024 </th>
+	<th> 90%(present) </th>
+</tr>
+
+<tr>
+	<th> 12th</th>
+	<th> Board of Intermediate education,AP </th>
+	<th> Mother Theresa jr college</th>
+	<th> Palamaner,Chittor dist.</th>
+	<th> 2020 </th>
+	<th> 95% </th>
+</tr>
+
+<tr>
+	<th> 10th </th>
+	<th> SSC </th>
+	<th> Little Angles E.M. School </th>
+	<th> Palamaner,Chittor dist.</th>
+	<th> 2018 </th>
+	<th> 89% </th>
+</tr>
+</table>
+<h2>
+<div style = "background-color:darkgrey;color:white;padding:05px;">
+<u> ONLINE PROFILE </u>
+</h2>
+<ul>
+	<h3>
+	<li><a href="https://www.linkedin.com/in/harsha-vardhan-asadi-b71898220/" target="_blank"> LinkedIn </a>
+	<li><a href="https://github.com/Harsha335" tagret="_blank"> Git Hub </a>
+	</h3>
+</ul>
+
+<h2>
+<div style = "background-color:darkgray;color:white;padding:05px;">
+<u> STRENGTHS </u>
+</h2>
+<ul>
+	<h3>
+	<b>
+	<li> Good Communication and inter-personal skills 
+	<li> Focused andConfident with positive attitude 
+	<li> Good team player 
+	<li> Self Confident and Motivated </b>
+	</h3>
+</ul>
+<h2>
+<div style = "background-color:darkgray;color:white;padding:05px;">
+<u> PERSONAL DETAILS </u>
+</h2>
+<ul>
+	<b>
+	<h3>
+	<li> Name : Asadi Harsha Vardhan
+	<li> Married : No
+	<li> Hobbies : </li>
+				<ul>
+				<li> Reading </li>
+				<li> Playing Chess </li>
+				<li> Listening music </li>
+				</ul>
+</ul>
+	
+
+
+</body>
+</p>
+</html>
